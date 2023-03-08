@@ -2973,3 +2973,84 @@ http://ptv.is/play/live.php?mac=00:1a:79:ba:a6:d5&stream=99493&extension=ts
 http://ptv.is/play/live.php?mac=00:1a:79:ba:a6:d5&stream=99492&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD ARG" tvg-logo="" group-title="Argentina",Warner Channel HD ARG
 http://ptv.is/play/live.php?mac=00:1a:79:ba:a6:d5&stream=99491&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS lozanostv
+http://193.107.202.221:81/play/live.php?mac=00:1a:79:c6:6c:d2&stream=672544&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SIMPSON
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzpd_jHqNiZTqs-cOsfZJeYCloOqfrjivRX0Z20sZgq25SMmHbkEa3Lsvn76tTIoaY?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SIMPSON 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyvXSVmnQz71kxnT2luxvdNWb1OFGaE1PmejR27OGKVFnJiRKAqDDO05NApwEWROzc?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DINOSAURIOS
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwY6UlFXWz-anpW4AnnbNnSJskyV5R7PJPlMUmoZSLxPpLgFn4XdCkDcyoH66HER-o?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RETRO TV
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzI3HpOlFjCDJu1ynfn3rnhkXxcrswFyid19_kbB9KnwfDzwGjra2n8NWZ-3vlZDdQ?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxwCArnp-6CfJrVk3E4BntLZNpzilIoZQXbWjaCDoK7vH_1rz9cES8vHrms_ux8cRo?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN HD 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzbTLBoFtva65f6_APRDRFxgP6dCpm6O69sU6ZtzHNOUds_fKyJ1L-uzRd3Pw_nTNA?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzMwTDVpGavDoHRoY04nhsCHDRzimhQ9qPwgvuqOvXY81-WDZlmoqguPeAShLOczmk?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxz7K7K842JfhMM-XQawQXmCS4q9-oHGGSWEr39Aqw5s8W0P3CF-EBSrophMBkvQs7U?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxycZSQxlQ6meB8b_4USSGs5ejkNK1MyqTqNCHSzMRkcTtGshb2e7wUW_QMvJcwjt8U?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxy73pA7krH1aLidQe3hdvhxxGmBszXdcPWx_AzD6Y6GHpclNZFxuggTQYuEw5h16MM?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxw0QYgr1BZWTXUmKRFgCGpShunQ3JD1gc2zMCYfC2tpztRE_1IDIjgx_D5SAdI8tAE?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX HD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxysef8P-peYsDsBNl4fxUrGJl_uQ_K4Tdn0WgZwkxvfyTL_FlPuRpAilXZevvklMO8?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX SD
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxvwBrUDsGOoP0so6IK_0rv6zu9dMvYAu0jqg1FBrMBGwas2VHacEh1BPJaP0m3JEY?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE CLASICO
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxlsMxQ2jhiRam4If-2F9Lcn3O5845L9zSCjwWawxwq_WSv6ZBScoF82adjImxwefg?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE INFANTIL
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxy3FeeYJvJQX4ZBNbaLBpHqwqTq2g149WP6FczfcGUB-13jzQXSgEipzdSA3udhS3w?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE INFANTIL 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxw4kcWXaPW0jVmzedLinTjNQ8AU4M3gYWpzKS7s1ycFlJ_YuQFO-GST3qbFlCDyN1E?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzDXlWefRy1WruptVMTc8C5X6PKpzJzevzfSzmTaR4WlDSrQnPbbnoI4xlSHxugEbY?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyionKQEQC_jB4DANVXGSnl36MBfl1hor2hVCzH-6BWg1zLKDDwrxvFalqHjdGf2LY?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO PLUS
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyVw_-LCf3ncVz8v7rtMtUIx9LdJmaAVkYljwlOJIR9GPQDFhWneO45D22vHbwlsOE?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO MUNDI
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxx18Q_-QE22YFJ9pC7OCjAKEUuSOsEYrP9y_iOXylcDvkw5ACTjezGiF_MkGPaF6Do?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO FAMILY
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwW8F2_FRqW8OJelmBHUUdhQgPpCJnm1MgT0mkwuQQmtn84KhPG7VenruYd1HlJhTE?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VIX CINECLUB
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyz6s-p_NGv0sGLnzdWS9eM8e114FdG0f44bRfEDHgCZ9MDT6PR2BWouFHg2HSt52U?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VIX ROMANCE
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxyo8vzmU4PonLQ5JnE3STQWCBnQO2UaGX_2mMQ6byf6u9871_It6JGlgL-_tpY2yRE?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VIX FAMILIA
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxx5znCS20LCfEg8p4wv68vDOF3mdN6ZM66TSc1bSCPV6naPhK_8ooY1cRlJB6ot4uI?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VIX ORO
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwRQt9GVNRXlxK2FQqdu7wek3eKgpjlJ59TmsF6PIVx0qymr5es6cMWuEeG-hhzz4c?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMA CIENCIA FICCION
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzSCzZF3sXswIOqi9LzQ4WDVLy1xnrwiV-PbVI2nNWphwTA0C7iWiP0-uqTTHILbh4?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMA INFANTILES
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwMGkKh4Fym9vzod_wcOrO6PsbsR1Di80O7x5SYJ1fteIXFNzm-Qn4ZPJdXtvyK2io?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DREAMWORKS
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxycpYaWswF6bwBnU_zPlSlzROs-oIWT_PnzErEs4Dk9p4M6fq7Le_fv5e8NYqSdYGw?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INFANTIL
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxx4Rjwpea5tA5KYo4HhWcYMlM15PAX9TGMrkCmdHFcO3In4fxUU1MTRUxAHgB1oOig?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INFANTIL 2
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzgVCIgiGIkIPorBKuNgW2GbrHoEhfOHwsiauARM546ynAlcmmHQmgmNyOfmG8DQM8?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NETFLIX INFANTIL
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzdxucOvbZd0FpCePXYEB84ANFfxDuuSPMp78ZfZGe2vUeeLtYkfWCAgxcfu-2aEgI?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NETFLIX 17
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwNCNx8RxQhMfW9TRcqrbnQM0iGgMUHCtsX47aBZK0TBKih7i-nnfhur5gagWKLcNU?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NETFLIX 18
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxeivz0AXQdhKtZ2UyvMJ6FacX8QWeDqxbzVnOCX-CjIysYrSjP_S1psyK4RkTdUp4?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NETFLIX 20
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxwGbuwrK2lCQBallP4_EzySUl-uNp2Dyo2JUFulTgS29B9RStnwXfjHtYHCzSXTwIg?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NETFLIX 21
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxzu57nyeGyXLjQe5_t93zbwocKzhsUf7eqJGlczadtrHydr3K9lf6Ae2-L7fLc6BDo?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NETFLIX 24
+http://xtreamgo.one/play/yL_oTkysd3FVWBNPtE5_6qONhaCCnJpAoAT-XUx6AusORCYIs5K9O1GtBvshU2yVjr17Ww7MSFWP0bWcHDlgNh2WNrN_fv1Gse9WszFbcxxSoKueWXYJR-JrCNUmQVJe1qrTE0UjdGvsdstn_83o5cLgQP9lMpDF_54iQNOSEjI?ext=.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
+
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
+
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
+
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS
